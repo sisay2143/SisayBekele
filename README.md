@@ -4,9 +4,9 @@
 
 
 <p>
- <a href="www.linkedin.com/in/sisay-bekele-818447232" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="[www.linkedin.com/in/sisay-bekele-818447232](https://www.linkedin.com/in/sisay-bekele-818447232)" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="[sisaybayisa21@gmail.com](https://mail.google.com/?authuser=0)"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+ <a href="(https://mail.google.com/mail/u/2/#inbox)" target="blank"><img align="center" src="https://commons.wikimedia.org/w/index.php?search=Instagram&title=Special:MediaSearch&go=Go&type=image" height="100" /></a>
 </p>
 
 <br />
