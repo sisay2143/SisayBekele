@@ -27,6 +27,8 @@ Feel free to explore the repository and dive into the projects that interest you
 
 [![sisay's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/sisay2143/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisay2143&show=reviews)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sisay2143)](https://git.io/streak-stats)
 
 
