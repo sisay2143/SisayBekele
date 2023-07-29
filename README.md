@@ -25,7 +25,6 @@
 
 Feel free to explore the repository and dive into the projects that interest you the most. I would appreciate any feedback or suggestions you may have. If you find something useful or if you have any questions, please don't hesitate to get in touch!
 
-[![sisay's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/sisay2143/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisay2143&show=reviews)
 
