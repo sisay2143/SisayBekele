@@ -2,35 +2,12 @@
 
 ## ✉️ Find me on:
 
-
-<p>
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][https://www.linkedin.com/in/sisay-bekele-818447232]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
-[![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
-[![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))][7]
-
-<!-- To Link your profile to the media buttons -->
-
-[1]: https://www.facebook.com/username
-[2]: https://www.instagram.com/username
-[3]: https://www.twitter.com/username
-[4]: https://www.linkedin.com/in/sisay-bekele-818447232
-[5]: https://www.github.com/username
-[6]: https://in.pinterest.com/username
-[7]: https://username.tumblr.com
-
-</p>
-
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/sisay-bekele-818447232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://web.telegram.org/a/">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
