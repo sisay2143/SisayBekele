@@ -4,9 +4,23 @@
 
 
 <p>
- <a href="[sisaybayisa21@gmail.com](https://mail.google.com/?authuser=0)"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="(https://mail.google.com/mail/u/2/#inbox)" target="blank"><img align="center" src="https://commons.wikimedia.org/w/index.php?search=Instagram&title=Special:MediaSearch&go=Go&type=image" height="100" /></a>
- <a href="(https://www.linkedin.com/in/sisay-bekele-818447232)" target="blank"><img align="center" src="https://commons.wikimedia.org/w/index.php?search=Instagram&title=Special:MediaSearch&go=Go&type=image" height="100" /></a>
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
+[![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
+[![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))][7]
+
+<!-- To Link your profile to the media buttons -->
+
+[1]: https://www.facebook.com/username
+[2]: https://www.instagram.com/username
+[3]: https://www.twitter.com/username
+[4]: https://www.linkedin.com/in/sisay-bekele-818447232
+[5]: https://www.github.com/username
+[6]: https://in.pinterest.com/username
+[7]: https://username.tumblr.com
 
 </p>
 
