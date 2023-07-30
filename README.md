@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://web.telegram.org/a/" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width="300" height="200" />
+    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width="100" height="50" />
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://mail.google.com/mail/u/2/#inbox">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png?style=for-the-badge&logo=twitter&logoColor=white" alt="gmail Badge"/>
   </a>
 </div>
 
