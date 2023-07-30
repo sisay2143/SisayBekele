@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/sisay-bekele-818447232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://web.telegram.org/a/">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png"/>
+  <a href="https://web.telegram.org/a/" target="_blank">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width = "100px" height = "100px" />
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
