@@ -25,7 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://cdn0.iconfinder.com/data/icons/logos-21/40/Bootstrap-1024.png" title="bootstrap" width="70" height="30" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn0.iconfinder.com/data/icons/logos-21/40/Bootstrap-1024.png" title="bootstrap" width="90" height="60" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-1024.png" title="bootstrap" width="70" height="30" alt="Flutter" width="70" height="60"/>&nbsp;
 </p>
 
 
