@@ -38,7 +38,6 @@ Feel free to explore the repository and dive into the projects that interest you
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sisay2143)](https://git.io/streak-stats)
 
 
-Connect with me on LinkedIn:www.linkedin.com/in/sisay-bekele-818447232
 
 Visit my portfolio website: [sisbek.netlify.app](https://sisbek.netlify.app/)
 
