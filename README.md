@@ -1,5 +1,9 @@
 # Hello there 👋 I'm Sisay_Bekele
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## ✉️ Find me on:
 
 <div id="badges">
@@ -29,9 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 Feel free to explore the repository and dive into the projects that interest you the most. I would appreciate any feedback or suggestions you may have. If you find something useful or if you have any questions, please don't hesitate to get in touch!
 
