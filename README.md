@@ -14,9 +14,9 @@ I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-
+-->
 
 ## ✉️ Find me on:
 
@@ -52,9 +52,9 @@ I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 Feel free to explore the repository and dive into the projects that interest you the most. I would appreciate any feedback or suggestions you may have. If you find something useful or if you have any questions, please don't hesitate to get in touch!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisay2143&show=reviews)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sisay2143)](https://git.io/streak-stats)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisay2143&show=reviews)
+-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sisay2143&theme=dark)](https://git.io/streak-stats)
 
 
 
