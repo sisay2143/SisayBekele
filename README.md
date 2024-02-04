@@ -13,9 +13,10 @@ I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sis_bek) 
+
 
 <div id="badges">
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sis_bek) 
   <a href="https://www.linkedin.com/in/sisay-bekele-818447232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
