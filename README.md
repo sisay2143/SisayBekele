@@ -7,10 +7,13 @@
 
 
 # 💫 About Me:
- About Me <br>I'm React Developer  from Ethiopia.<br><br>🔭 I’m working as a Web developer and contributing to frontend for building web applications.<br><br>⚡ In my free time, I solve problems on GeeksforGeeks and leetcode
+I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+ <br><br>🔭 I’m working as a Web developer and contributing to frontend for building web applications.<br><br>⚡ In my free time, I solve problems on GeeksforGeeks and leetcode
 
- I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+ 
+:telescope: I’m working as a Web developer and contributing to frontend for building web applications.
 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sis_bek) 
