@@ -1,5 +1,15 @@
+# Hello there 👋 I'm Sisay Bekele Bayisa
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+
 # 💫 About Me:
  About Me <br>I'm React Developer  from Ethiopia.<br><br>🔭 I’m working as a Web developer and contributing to frontend for building web applications.<br><br>⚡ In my free time, I solve problems on GeeksforGeeks and leetcode
+
+ I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 
 
 ## 🌐 Socials:
