@@ -42,7 +42,7 @@ I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Flutter](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AGoogle-flutter-logo.png&psig=AOvVaw21EgvNzkcs1F5ss-wfhppp&ust=1707418286414000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjiz_PymYQDFQAAAAAdAAAAABAI)
+![Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
