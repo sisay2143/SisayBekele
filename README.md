@@ -8,7 +8,8 @@
 
 # 💫 About Me:
 I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
- <br><br>🔭 I’m working as a Web developer and contributing to frontend for building web applications.<br><br>⚡ In my free time, I solve problems on GeeksforGeeks and leetcode
+ <br><br>🔭 I’m working as a Web developer and contributing to frontend for building web applications.<br><br>⚡ In my free time, I solve problems on leetcode
+
 
 
 
