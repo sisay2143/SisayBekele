@@ -46,7 +46,6 @@ I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
  <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="70" height="30" alt="flutter Badge"/>
   </a>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
