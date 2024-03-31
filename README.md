@@ -27,8 +27,7 @@
 ## 🌐 Socials:
 
   <p align="left">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sis_bek) 
-<div id="badges">
+
 
 <a href="https://www.linkedin.com/in/sisay-bekele-818447232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sisay-bekele-818447232" height="30" width="40" /></a>
 <a href="https://www.facebook.com/man.ronaldo.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/man.ronaldo.18" height="30" width="40" /></a>
