@@ -33,9 +33,9 @@
   <a href="https://www.linkedin.com/in/sisay-bekele-818447232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sisay-bekele-818447232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sisay-bekele-818447232" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sisay-bekele-818447232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sisay-bekele-818447232" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/man.ronaldo.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/man.ronaldo.18" height="30" width="40" /></a>
-<a href="[https://instagram.com/https://www.instagram.com/invites/contact/?i=gtzq8vnnal1n&utm_content=fiv4m4g](https://www.instagram.com/sis_bek_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=gtzq8vnnal1n&utm_content=fiv4m4g" height="30" width="40" /></a> <a href="https://web.telegram.org/a/" target="_blank">
+<a href="https://instagram.com/sis_bek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=gtzq8vnnal1n&utm_content=fiv4m4g" height="30" width="40" /></a> <a href="https://web.telegram.org/a/" target="_blank">
     <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width="40" height="30" />
   </a>
   <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
