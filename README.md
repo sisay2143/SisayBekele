@@ -7,9 +7,20 @@
 
 
 # 💫 About Me:
-I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
- <br><br>🔭 I’m working as a Web developer and contributing to frontend for building web applications.<br><br>⚡ In my free time, I solve problems on leetcode
 
+<h3 align="center">A passionate React developer from Ethiopia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sisay2143&label=Profile%20views&color=0e75b6&style=flat" alt="sisay2143" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisay2143" alt="sisay2143" /></a> </p>
+
+- 🌱 I’m currently learning **flutter**
+
+- 👯 I’m looking to collaborate on **React and flutter projects**
+
+- 💬 Ask me about **React**
+
+- 📄 Know about my experiences [https://sisbek.netlify.app/](https://sisbek.netlify.app/)
 
 
 
@@ -20,14 +31,8 @@ I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sisay-bekele-818447232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sisay-bekele-818447232" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/man.ronaldo.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/man.ronaldo.18" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=gtzq8vnnal1n&utm_content=fiv4m4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=gtzq8vnnal1n&utm_content=fiv4m4g" height="30" width="40" /></a>
-</p>
+    <div id="badges">
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sis_bek) 
-<div id="badges">
-
-  <a href="https://www.linkedin.com/in/sisay-bekele-818447232" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://web.telegram.org/a/" target="_blank">
     <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width="70" height="30" />
   </a>
@@ -35,6 +40,10 @@ I'm React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png?style=for-the-badge&logo=twitter&logoColor=white" width="70" height="30" alt="gmail Badge"/>
   </a>
 </div>
+</p>
+
+
+
 
 <br />
 
